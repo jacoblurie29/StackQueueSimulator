@@ -1,0 +1,111 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jacob/Documents/CSDS 233 HW/P3
+valu_slice
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1633921942
+!i10b 1
+!s100 Tl>R70jLoL^k8>2iBZdQ[3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IB`@[4;iE=FhjDzj@;<Nja0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/jacob/Documents/CSDS 233 HW/P2
+w1633920279
+8C:/Users/jacob/Downloads/alu_slice (1).sv
+FC:/Users/jacob/Downloads/alu_slice (1).sv
+!i122 107
+L0 1 21
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1633921942.000000
+!s107 C:/Users/jacob/Downloads/alu_slice (1).sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jacob/Downloads/alu_slice (1).sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vgen_alu
+R0
+R1
+!i10b 1
+!s100 W0]0]Y:1WdZiHi[dJ0iR[1
+R2
+I7c9OVi?J[_85oc[ILoLTF3
+R3
+S1
+R4
+w1633921939
+8C:/Users/jacob/Downloads/gen_alu (1).sv
+FC:/Users/jacob/Downloads/gen_alu (1).sv
+!i122 108
+L0 1 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/jacob/Downloads/gen_alu (1).sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jacob/Downloads/gen_alu (1).sv|
+!i113 1
+R7
+R8
+vrc_adder_slice
+R0
+!s110 1633921943
+!i10b 1
+!s100 K4`RJ9Y_mm;EF5;VdFb@A2
+R2
+I8I@85IWDXd65XdXXMfNgX2
+R3
+S1
+R4
+w1633913858
+8C:/Users/jacob/Downloads/rc_adder_slice-2 (1).sv
+FC:/Users/jacob/Downloads/rc_adder_slice-2 (1).sv
+!i122 110
+L0 1 14
+R5
+r1
+!s85 0
+31
+!s108 1633921943.000000
+!s107 C:/Users/jacob/Downloads/rc_adder_slice-2 (1).sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jacob/Downloads/rc_adder_slice-2 (1).sv|
+!i113 1
+R7
+R8
+vtestbench_lab4
+R0
+R1
+!i10b 1
+!s100 0oak_GIgnY0_Dg`@9^JX71
+R2
+I]Il7;5i5E74M?mfSFdc520
+R3
+S1
+R4
+w1633916842
+8C:/Users/jacob/Downloads/testbench_lab4 (1).sv
+FC:/Users/jacob/Downloads/testbench_lab4 (1).sv
+!i122 109
+L0 1 53
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/jacob/Downloads/testbench_lab4 (1).sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jacob/Downloads/testbench_lab4 (1).sv|
+!i113 1
+R7
+R8
